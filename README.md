@@ -1,11 +1,8 @@
-Data-structures are the building blocks of coding, the more you do it the
-more you understand.So,in this repo I have tried to try a few commonplace
-algorithms which reveals the importance of data-sturcture in programming.
-more you understand. So in this repo I have tried to try a few commonplace
-algorithms which reveals the importance of data-sturcture in programming.
-Though I am using Javascript here but the algorithms are more or less 
-language independent and you can also find counter-part dat structures 
-in most of the programming languages. Our focus is to reduce the time-
-complexity of the given solution codes to the answer of the algorithm
-based problems. One can find the problem texts in Questions directory
-and solutions in Answers directory. 
+**Data-structures** are the building blocks of coding, the more you do it the
+more you understand.In this repo I have tried to write a few commonplace
+**algorithms** which reveals the importance of data-sturcture in programming.
+Though I am using **Javascript** here but the algorithms are more or less 
+language independent,moreover you can also find similiar data-structures in
+almost all of the programming languages.So, our focus is to reduce the time 
+& space complexities of the given solutions for the algorithm based problems.
+Problems & solutions are given in Questions & Answers folders respectively. 
