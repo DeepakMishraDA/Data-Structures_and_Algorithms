@@ -5,4 +5,7 @@ more you understand. So in this repo I have tried to try a few commonplace
 algorithms which reveals the importance of data-sturcture in programming.
 Though I am using Javascript here but the algorithms are more or less 
 language independent and you can also find counter-part dat structures 
-in most of the programming languages.
+in most of the programming languages. Our focus is to reduce the time-
+complexity of the given solution codes to the answer of the algorithm
+based problems. One can find the problem texts in Questions directory
+and solutions in Answers directory. 
